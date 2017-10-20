@@ -295,6 +295,14 @@
 			"notests": true
 		},
 		{
+			"importpath": "github.com/matterbridge/girc",
+			"repository": "https://github.com/matterbridge/girc",
+			"vcs": "git",
+			"revision": "cd5f588a68c653815afea1d4dc59d3c33b034860",
+			"branch": "capls",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/mattermost/platform/einterfaces",
 			"repository": "https://github.com/mattermost/platform",
 			"vcs": "git",
