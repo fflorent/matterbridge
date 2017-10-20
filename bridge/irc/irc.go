@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/42wim/matterbridge/bridge/config"
 	log "github.com/Sirupsen/logrus"
-	"github.com/lrstanley/girc"
+	"github.com/matterbridge/girc"
 	"github.com/paulrosania/go-charset/charset"
 	_ "github.com/paulrosania/go-charset/data"
 	"github.com/saintfish/chardet"
